@@ -1,1 +1,1 @@
-This is a new feature
+This is a cool new feature
